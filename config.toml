@@ -1,4 +1,12 @@
-baseURL = "http://example.org/"
+baseURL = "https://www.audido.com/allie/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Allison Shertzer"
 theme = "notrack"
+
+[params]
+  author = "Allison Shertzer"
+
+  [params.social]
+    email = "shertzer@pitt.edu"
+    googlescholar = "user=eMHe2JQAAAAJ"
+    twitter = "notreal"
