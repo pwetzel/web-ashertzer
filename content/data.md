@@ -18,10 +18,3 @@ explanation of format or something, and provide a [download link](hamsters.zip).
 
 I am totally into hamsters, or at least I used to be back when my brother still
 remembered to buy me calendars. [Here is some proof](hamsters.zip).
-
-ORRRRRRRRRRRRRRRR keep it simple:
-
-[Prewar Neighborhoods Data](hamsters.zip)
-
-[Chicago Zoning Data](hamsters.zip)
-

@@ -11,10 +11,11 @@ menu:
 
 {{< image frame="false" width="11em" src="img/ShertzerAllison.jpg" float="right" alt="Picture of me" >}}
 
-Associate Professor, Department of Economics, University of Pittsburgh
+Associate Professor  
+Department of Economics  
+University of Pittsburgh
 
 Office: Posvar 4509  
-Phone: 412-648-7071  
 [Curriculum Vitae](ShertzerAllison_CV.pdf)
 
 I am an Associate Professor of Economics at the University of Pittsburgh,

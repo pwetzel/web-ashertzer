@@ -11,20 +11,21 @@ menu:
 
 # Research Papers
 
-"[Racial Segregation in Housing Markets and the Erosion of Black Wealth](w25805.pdf),"
+"Racial Segregation in Housing Markets and the Erosion of Black Wealth,"
 with Prottoy A. Akbar, Sijie Li, and Randall P. Walsh.
-NBER Working Paper 25805, January 2020.  
+NBER Working Paper 25805, January 2020. ([Download](w25805.pdf))  
 \*Featured in [VoxEU](https://voxeu.org/article/how-segregated-housing-eroded-wealth-black-families) (August 31st, 2019)
 
-"[The Impact of Early Investments in Urban School Systems in the United States](w25663.pdf),"
+"The Impact of Early Investments in Urban School Systems in the United States,"
 with Ethan Schmick.
 NBER Working Paper 25663, March 2020.
+([Download](w25663.pdf))
 
-You get the idea. I didn't do the formatting / linking fixes for all of them,
-just enough to prove a point.
-
-"Racial Sorting and the Emergence of Segregation in American Cities," with Randall P. Walsh. Review of Economics and Statistics 101.3 (2019): 1-14. (Complete version: Download)
-** Featured in the Washington Post (March 17th, 2016), CityLab (March 18th, 2016), and VoxEU (May 19th, 2016)
+"Racial Sorting and the Emergence of Segregation in American Cities,"
+with Randall P. Walsh.
+Review of Economics and Statistics 101.3 (2019): 1-14.
+(Complete version: Download)  
+\*Featured in the Washington Post (March 17th, 2016), CityLab (March 18th, 2016), and VoxEU (May 19th, 2016)
 
 "Ideology and Migration after the American Civil War," with Shari Eli and Laura Salisbury. Journal of Economic History 78.3 (2018): 822-861. (Download)
 
