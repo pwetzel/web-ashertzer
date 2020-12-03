@@ -4,21 +4,19 @@ date: 2020-11-23T18:30:49-05:00
 
 menu:
   main:
-    name: "Papers"
+    name: "Research"
     weight: 25
 
 ---
 
-I write a lot. Here's a list.
-
 # Research Papers
 
-"[Racial Segregation in Housing Markets and the Erosion of Black Wealth](https://www.allisonshertzer.com/files/w25805.pdf),"
+"[Racial Segregation in Housing Markets and the Erosion of Black Wealth](w25805.pdf),"
 with Prottoy A. Akbar, Sijie Li, and Randall P. Walsh.
 NBER Working Paper 25805, January 2020.  
 \*Featured in [VoxEU](https://voxeu.org/article/how-segregated-housing-eroded-wealth-black-families) (August 31st, 2019)
 
-"[The Impact of Early Investments in Urban School Systems in the United States](https://www.allisonshertzer.com/files/w25663.pdf),"
+"[The Impact of Early Investments in Urban School Systems in the United States](w25663.pdf),"
 with Ethan Schmick.
 NBER Working Paper 25663, March 2020.
 

@@ -8,12 +8,20 @@ menu:
     weight: 50
 
 ---
-Lots of cool data to look at here!
 
-# Phil Data
+# Prewar Neighborhoods Data
 
-Phil got this stuff.
+Do you want to explain your data in any way? If so, you could have a brief
+explanation of format or something, and provide a [download link](hamsters.zip).
 
-# Other data
+# Chicago Zoning Data
 
-This stuff is OK, too.
+I am totally into hamsters, or at least I used to be back when my brother still
+remembered to buy me calendars. [Here is some proof](hamsters.zip).
+
+ORRRRRRRRRRRRRRRR keep it simple:
+
+[Prewar Neighborhoods Data](hamsters.zip)
+
+[Chicago Zoning Data](hamsters.zip)
+

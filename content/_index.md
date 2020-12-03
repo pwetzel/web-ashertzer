@@ -15,64 +15,16 @@ Associate Professor, Department of Economics, University of Pittsburgh
 
 Office: Posvar 4509  
 Phone: 412-648-7071  
-Email: shertzer@pitt.edu  
-[Curriculum Vitae](https://www.allisonshertzer.com/files/ShertzerAllison_CV.pdf)
+[Curriculum Vitae](ShertzerAllison_CV.pdf)
 
+I am an Associate Professor of Economics at the University of Pittsburgh,
+where I am also affiliated with Urban Studies. I am a Research Associate at
+the National Bureau of Economics in the Development of the American Economy
+Program. My research focuses on the economic history of cities in the
+United States. Much of my work centers on the origins of residential
+segregation by race in northern American urban areas. I am also interested
+in early land use regulation as well as the impact of immigration on the
+provision of public goods. My current research is focused on housing and
+land prices in urban areas since the Civil War.
 
-I put your CV stuff here in two different ways, you can do either one you want.
-
-The natural Markdown way, you'll get something like you had before:
-
-# Employment and Affiliations
- - Associate Professor of Economics, University of Pittsburgh, September 2019 - present
- - Research Associate, National Bureau of Economic Research, October 2019 - present
-
-# Education
- - Ph.D. Economics, UCLA, June 2011
- - M.A. Economics, UCLA, December 2007
- - B.S. Industrial Engineering, B.A. Mathematics, Arizona State University, summa cum laude, May 2006
-
-You can knock those headers down a couple notches if you want, like this:
-
-## Employment and Affiliations (one tick smaller)
- - Associate Professor of Economics, University of Pittsburgh, September 2019 - present
- - Research Associate, National Bureau of Economic Research, October 2019 - present
-
-### Education (two ticks smaller)
- - Ph.D. Economics, UCLA, June 2011
- - M.A. Economics, UCLA, December 2007
- - B.S. Industrial Engineering, B.A. Mathematics, Arizona State University, summa cum laude, May 2006
-
-This theme also has a kind of nifty "resume" feature. The same thing using that is below:
-
-{{< container >}}
-  {{< resume-section title="Employment and Affiliations" >}}
-    {{< resume-entry what="Associate Professor of Economics"
-                     where="University of Pittsburgh"
-                     when="September 2019-present">}}
-    {{< /resume-entry >}}
-    {{< resume-entry what="Research Associate"
-                     where="National Bureau of Economic Research"
-                     when="October 2019-present">}}
-    {{< /resume-entry >}}
-  {{< /resume-section >}}
-  {{< resume-section title="Education" >}}
-    {{< resume-entry what="Ph.D. Economics"
-                     where="UCLA"
-                     when="June 2011">}}
-    {{< /resume-entry >}}
-    {{< resume-entry what="M.A. Economics"
-                     where="UCLA"
-                     when="December 2007">}}
-    {{< /resume-entry >}}
-    {{< resume-entry what="B.S. Industrial Engineering, B.A. Mathematics"
-                     where="Arizona State University"
-                     when="May 2006">}}
-    {{< /resume-entry >}}
-  {{< /resume-section >}}
-{{< /container >}}
-
-You might consider some kind of text or introduction on your home page to fill
-in the space by your picture up on the top. Along the lines of "I research 
-economics, and I write, stuff, and I cook all cuisines, and I lose at MarioKart
-to my brother." Something like that.
+{{< social >}}
